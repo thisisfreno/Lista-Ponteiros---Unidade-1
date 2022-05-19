@@ -1,0 +1,7 @@
+Questão 8
+
+ 
+a) Imprime os elementos do vetor “vet” (4,9,13).
+b) Imprime os endereços do vetor “vet”. O primeiro endereço fica com o final (0 + 0), 
+o segundo com o final (0+4) e o terceiro elemento com o final (0+8). Uma vez que o 
+ponteiro está caminhando byte a byte e cada int tem valor igual a 4 bytes.

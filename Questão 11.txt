@@ -1,0 +1,14 @@
+Questão 11
+
+ 
+São inválidos:
+aloha = value;
+scanf("%f", &aloha);
+printf("%f", aloha);
+coisas[5] = aloha;
+pf = aloha;
+
+São válidos: 
+aloha[2] = value;
+coisas[4][4] = aloha[3];
+pf = value;

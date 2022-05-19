@@ -1,0 +1,15 @@
+Questão 7
+
+São expressões válidas:
+
+p = mat + 1; Para essa expressão, passamos para o ponteiro o endereço mat[1].
+
+
+x = (*mat)++; Para essa expressão, incrementamos 1 no conteúdo guardado na primeira posição no vetor mat[]
+
+São expressões inválidas:
+
+p = mat++; A sintaxe utilizada não é compatível com um vetor. Esse incremento só é utilizado para
+incrementar o valor guardado em alguma de suas posições.
+
+p = ++mat; A sintaxe não é compatível, como na expressão anterior.

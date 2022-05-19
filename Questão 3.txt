@@ -1,0 +1,9 @@
+Questão 3
+
+São ilegais:
+
+b) *q = &*&j;
+d) i = (*&)j;
+f) i = &&j;
+g) q = *p;
+h) i = (*p) + *q;

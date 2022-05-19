@@ -1,0 +1,5 @@
+Questão 12
+
+Um meio que permite acessar um endereço de uma determinada função na memória, uma vez 
+que o “ponteiro” estará apontando para esse endereço, o que permite uma construção 
+mais genérica dos códigos.

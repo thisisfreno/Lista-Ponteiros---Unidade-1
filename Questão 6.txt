@@ -1,0 +1,4 @@
+Questão 6
+
+*(pulo + 2); 
+pulo + 2;
